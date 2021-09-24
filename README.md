@@ -1,1 +1,1 @@
-# when-waifu: CLI quick view of Vtuber schedules
+# when-waifu: CLI to quick view of Vtuber schedules
