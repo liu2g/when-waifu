@@ -28,7 +28,7 @@ Should support both indivisual channel, groups of channels by fuzzy search (good
 - `when-waifu config <key> <value>` to change individual settings other than the channel list.
 
 ## Tasks to try
-- [ ] Web scraper implementation
+- [X] Web scraper implementation
 
 ## Decisions to determine
 - [ ] Config file format

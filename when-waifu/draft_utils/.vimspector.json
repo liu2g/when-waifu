@@ -1,0 +1,18 @@
+{
+  "configurations": {
+    "<name>: Launch": {
+      "adapter": "debugpy",
+      "configuration": {
+        "name": "Test",
+        "type": "python",
+        "request": "launch",
+        "cwd": "${workspaceFolder}",
+        "python": "/home/liu/.local/bin/miniforge3/envs/when-waifu/bin/python",
+        "console": "externalTerminal",
+        "debugOptions": [],
+        "program": "main.py",
+        "args": []
+      }
+    }
+  }
+}
